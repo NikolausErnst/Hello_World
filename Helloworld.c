@@ -2,6 +2,6 @@
 
 int main(void)
 {
-    printf("Hello, World! Ich bins der Nikolaus!\n");
+    printf("Hello, World! Ich gehe in die HTL Eisenstadt!\n");
     return 0;
 }
